@@ -89,7 +89,7 @@ DEMO_VIDEO_SCRIPT.md
 
 ### Clone Repository
 
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/Vidhi2231/health-prediction-application.git)
 
 cd HealthPrediction
 
